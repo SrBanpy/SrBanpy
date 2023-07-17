@@ -1,10 +1,12 @@
-# Hi everyone! Welcome to my GitHub profile
+### Hi there 👋, my name is Ignacio
+#### I am a Python developer and also a fanatic of physics
+![I am a Python developer and also a fanatic of physics]()
 
+I'm Ignacio from Spain, I'm sixteen, and I'm a fanatic of physics and coding. Although I'm just a junior in programming, I have the PCAP certificate from Python University, ...   I wish become someday an artificial intelligent developer.
 
+Skills: PYTHON / SCRUM MASTER / SQL 
+Idioms: ENGLISH (B2) / SPANISH (NATIVE) / GERMAN (A1) 
 
-### Here you can see all of my code that I´m learning and projects which I´ll work.
-
-![](https://i0.wp.com/www.senpai.com.mx/wp-content/uploads/2020/08/18109131.jpg?fit=1280%2C720&ssl=1)
 
 
 ## My repositories
