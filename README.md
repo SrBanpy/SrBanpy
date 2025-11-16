@@ -4,7 +4,7 @@
 
 ## My repositories
 
-[William The Reader]([https://github.com/SrBanpy/MyFirstRepository.git](https://github.com/SrBanpy/William-The-Reader)])
+[William The Reader](https://github.com/SrBanpy/MyFirstRepository.git](https://github.com/SrBanpy/William-The-Reader))
 
 
 # My status in GitHub
